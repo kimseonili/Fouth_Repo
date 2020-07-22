@@ -1,0 +1,39 @@
+body{
+    background-color: wheat;
+}
+
+#id{
+    background-color: red;
+    padding: 10px 10px;
+    margin : 5px 5px
+}
+
+#pw{
+    background-color: orange;
+    padding: 10px 10px;
+    margin : 5px 5px
+}
+
+#answer{
+    background-color: yellow;
+}
+
+#name{
+    background-color: green;
+    margin-left: 50px;
+}
+#body{
+    background-color: yellowgreen;
+    margin-left: 50px;
+}
+
+#hint{
+    background-color: cyan;
+    padding: 10px 10px;
+}
+
+#submitBtn{
+    padding:100px 100px 100px 100px;
+    margin-left: 100px;
+    background-color: tomato;
+}
